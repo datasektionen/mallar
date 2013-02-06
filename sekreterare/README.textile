@@ -70,7 +70,7 @@ h4. Dagordning/Handlingar
 
 * Kopiera och redigera mallen.
 * Deadline: 5 skoldagar före mötet.
-* Publicer/skicka:
+* Publicera/skicka:
 ** Mail till THS styrelse och revisorer
 ** Lapp i sektionslokalen (t.ex. QR-kod med länk)
 ** Nyhet + sticky på hemsidan.
@@ -124,6 +124,7 @@ Om det beslutas om införande av ny nämnd/funktionär maila d-sys och be denne 
 
 h4. Funktionärsposter och funktionärer
 
+Uppdatera mallarna med rapportpunkt för ny nämnd/funktionär.
 Påminn valberedningen om det skapas ny nämnd/funktionär så att de kan uppdatera hemsidan och lysa val till nästkommande SM.
 
 h2. HOW-TOs
