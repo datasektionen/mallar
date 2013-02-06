@@ -1,0 +1,161 @@
+h1. Testamente för sekreterare
+
+h2. Huvuduppgifter
+
+* Post
+* Kallelser, dagordning och protokoll
+* Uppdatera styrdokument
+
+h3. Post
+
+Hämta ut posten varje vecka. Lämpligen på måndagar eller inför dreks veckomöte.
+Den hämtas i sektionens postfack i Nymble. Om man går in genom nedre ingången (närmast tunnelbanan) och direkt till vänster så sitter de på väggen en liten bit fram. Vi har postfack A3. (Nyckel bör du ha fått av vice ordf)
+Posten skall sedan sorteras och ges till rätt mottagare, om det inte finns en nämnd eller person som adressent öppna brevet och kolla.
+
+h3. DM
+
+h4. Kallelse
+
+Lokal måste bokas innan kallelsen ska ut.
+
+* Kallelsen består av:
+** datum
+** tid
+** plats
+* Deadline: 5 skoldagar före mötet.
+* Kallas genom:
+** Mail till dfunk + drek.
+** Nyhet + kalenderpost på hemsidan.
+** Lapp i sektionslokalen (se mallar).
+
+h4. Dagordning/Handlingar
+
+Kolla med resten av drek angående vilka punkter som skall tas upp.
+
+* Kopiera och redigera mallen.
+* Deadline: När DM börjar, men gärna klar en dag innan.
+* Skicka gärna ut till drek + dfunk.
+* Lägg gärna upp i nyhet på hemsidan.
+
+h4. Protokoll
+
+* Kopiera och redigera mallen.
+* Deadline: Klar senast X dagar efter DM.
+* Justera.
+* Publicera/spara:
+** På hemsidan under sektionen/protokoll?
+** Arkivera dokumenten på Afs?
+
+h3. SM
+
+h4. Kallelse
+
+Lokal måste bokas innan kallelsen ska ut.
+
+* Kallelsen består av:
+** typ av SM
+** datum
+** tid
+** plats
+* Deadline: 15 skoldagar före mötet.
+* Kallas genom:
+** Mail till THS styrelse och revisorer
+** Lapp i sektionslokalen (se mallar)
+** Nyhet + kalenderpost + sticky på hemsidan
+* Lägg även upp motionsdeadline (X dagar innan SM) på hemsidan.
+* Maila dfunk + drek och be dem skicka in rapporter på vad de gjort sedan senaste SM.
+* Prata med valberedningen om att lysa valen (deadline?).
+
+h4. Dagordning/Handlingar
+
+* Kopiera och redigera mallen.
+* Deadline: 5 skoldagar före mötet.
+* Publicer/skicka:
+** Mail till THS styrelse och revisorer
+** Lapp i sektionslokalen (t.ex. QR-kod med länk)
+** Nyhet + sticky på hemsidan.
+* Bifoga motionssvar, propositioner, motioner, rapporter och andra relevanta dokument.
+* Prata med valberedningen om vilka val som skall göras.
+* Om det under förra SM beslutades om stadgeändringar så skall dessa ha en andra läsning och vara med i dagordningen (inklusive original bilagor).
+
+h4. Till SM
+
+Skriv ut och ta med:
+* närvarolistor.
+* in- och utlistor.
+* yrkandelappar.
+
+h4. Protokoll
+
+* Kopiera och redigera mallen.
+* Deadline: Klar senast X dagar efter SM.
+* Justera.
+* Publicera/skicka:
+** Skicka till ???
+** Lägg upp på hemsidan under ...
+** Arkivera dokumenten på Afs?
+
+h4. Specifika SM
+
+h5. Revisions-SM
+
+Fråga tidigare ordförande om dokumenten för revisionsärendena är klara, de skall i så fall bifogas i dagordningen.
+Till detta SM är det lämpligt att nya projekt startas så att projektledare kan väljas på Val-SM, påminn nuvarande projektledningar om att de behöver inkomma med motioner för detta.
+Hedersdeltan delas traditionsenligt ut på detta SM, diskutera kandidater på DM inför SM och se till att motiveringar är färdigskrivna.
+
+h5. Val-SM
+
+h5. Budget-SM
+
+Till detta SM skall verksamhetsplan och budget bifogas i dagordningen. Be nämnderna om dessa i tid.
+
+h5. Glögg-SM
+
+h3. Uppdatera enligt ändringar
+
+h4. Styrdokument
+
+Efter att protokoll har justerats, gå igenom och uppdatera styrdokumenten med alla reglementes- och stadgeändringar. Observera att stadgeändringar först går igenom efter en andra läsning.
+Styrdokumenten ligger på github och uppdateras ...
+
+h4. Mailalias
+
+Om det beslutas om införande av ny nämnd/funktionär maila d-sys och be denne skapa lämpliga mailalias och lägga in dessa i dfunk-aliaset om funktionär.
+
+h4. Funktionärsposter och funktionärer
+
+Påminn valberedningen om det skapas ny nämnd/funktionär så att de kan uppdatera hemsidan och lysa val till nästkommande SM.
+
+h2. HOW-TOs
+
+h3. Hemsidan HOW-TO
+
+h4. Lägga till nyhet
+
+h4. Uppdatera stickyn
+
+h4. Lägga till kalenderpost
+
+h4. Ladda upp dokument
+
+h4. Uppdatera listan över protokoll
+
+h3. Mallar HOW-TO
+
+h4. Var finns de? Hur uppdateras de?
+
+h3. .tex HOW-TO
+
+h4. Installera och köra
+
+h4. Redigera
+
+h3. Git och Github HOW-TO
+
+h3. Afs HOW-TO
+
+h4. Hitta filerna
+
+h4. Ladda ner filer
+
+h4. Ladda upp filer
