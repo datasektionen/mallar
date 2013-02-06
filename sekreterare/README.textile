@@ -22,8 +22,8 @@ Lokal måste bokas innan kallelsen ska ut.
 ** datum
 ** tid
 ** plats
-* Deadline: 5 skoldagar före mötet.
-* Kallas genom:
+* Deadline: 5 läsdagar före mötet.
+* Anslås genom:
 ** Mail till dfunk + drek.
 ** Nyhet + kalenderpost på hemsidan.
 ** Lapp i sektionslokalen (se mallar).
@@ -40,10 +40,11 @@ Kolla med resten av drek angående vilka punkter som skall tas upp.
 h4. Protokoll
 
 * Kopiera och redigera mallen.
-* Deadline: Klar senast X dagar efter DM.
+* Deadline: Klar senast 14 dagar efter DM.
 * Justera.
-* Publicera/spara:
-** På hemsidan under sektionen/protokoll?
+* Anslås genom:
+** Lapp i sektionslokalen (t.ex. QR-kod med länk)
+** Hemsidan under sektionen/formalia/protokoll + nyhet
 ** Arkivera dokumenten på Afs?
 
 h3. SM
@@ -57,20 +58,21 @@ Lokal måste bokas innan kallelsen ska ut.
 ** datum
 ** tid
 ** plats
-* Deadline: 15 skoldagar före mötet.
-* Kallas genom:
-** Mail till THS styrelse och revisorer
+** reservtid och plats
+* Deadline: 15 läsdagar före mötet.
+* Anslås genom:
+** Mail till THS styrelse (ordf@ths.kth.se) och sakrevisorer (revisor@ths.kth.se)
 ** Lapp i sektionslokalen (se mallar)
 ** Nyhet + kalenderpost + sticky på hemsidan
-* Lägg även upp motionsdeadline (X dagar innan SM) på hemsidan.
+* Lägg även upp motionsdeadline (10 läsdagar innan SM) på hemsidan.
 * Maila dfunk + drek och be dem skicka in rapporter på vad de gjort sedan senaste SM.
-* Prata med valberedningen om att lysa valen (deadline?).
+* Prata med valberedningen om att lysa valen (deadline 15 läsdagar före SM).
 
 h4. Dagordning/Handlingar
 
 * Kopiera och redigera mallen.
-* Deadline: 5 skoldagar före mötet.
-* Publicera/skicka:
+* Deadline: 5 läsdagar före mötet.
+* Anslås genom:
 ** Mail till THS styrelse och revisorer
 ** Lapp i sektionslokalen (t.ex. QR-kod med länk)
 ** Nyhet + sticky på hemsidan.
@@ -88,18 +90,24 @@ Skriv ut och ta med:
 h4. Protokoll
 
 * Kopiera och redigera mallen.
-* Deadline: Klar senast X dagar efter SM.
+* Deadline: Klar senast 14 dagar efter SM.
 * Justera.
-* Publicera/skicka:
-** Skicka till ???
-** Lägg upp på hemsidan under ...
+* Anslås genom:
+** Mail till THS styrelse
+** Lapp i sektionslokalen (t.ex. QR-kod med länk)
+** Hemsidan under sektionen/formalia/protokoll + nyhet
 ** Arkivera dokumenten på Afs?
 
 h4. Specifika SM
 
+h5. Extra-SM
+* Kallelse senast 8 läsdagar innan mötet, anslås i övrigt som ordinarie.
+* Behandlar endast de frågor som angivits i kallelsen.
+
+
 h5. Revisions-SM
 
-Fråga tidigare ordförande om dokumenten för revisionsärendena är klara, de skall i så fall bifogas i dagordningen.
+Fråga tidigare ordförande om dokumenten för revisionsärendena är klara, de skall i så fall bifogas i dagordningen. Dessa ska dessutom ha tillsänts revisorerna 15 läsdagar innan SM och publicerats senast 10 läsdagar innan SM. Detta görs inte av nuvarande sekreterare.
 Till detta SM är det lämpligt att nya projekt startas så att projektledare kan väljas på Val-SM, påminn nuvarande projektledningar om att de behöver inkomma med motioner för detta.
 Hedersdeltan delas traditionsenligt ut på detta SM, diskutera kandidater på DM inför SM och se till att motiveringar är färdigskrivna.
 
