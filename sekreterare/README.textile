@@ -10,7 +10,7 @@ h3. Post
 
 Hämta ut posten varje vecka. Lämpligen på måndagar eller inför dreks veckomöte.
 Den hämtas i sektionens postfack i Nymble. Om man går in genom nedre ingången (närmast tunnelbanan) och direkt till vänster så sitter de på väggen en liten bit fram. Vi har postfack A3. (Nyckel bör du ha fått av vice ordf)
-Posten skall sedan sorteras och ges till rätt mottagare, om det inte finns en nämnd eller person som adressent öppna brevet och kolla.
+Posten skall sedan sorteras och ges till rätt mottagare, om det inte finns en nämnd eller person som adressent öppna brevet och kolla. Är du osäker fråga resten av drek.
 
 h3. DM
 
@@ -22,30 +22,31 @@ Lokal måste bokas innan kallelsen ska ut.
 ** datum
 ** tid
 ** plats
-* Deadline: 5 läsdagar före mötet.
+* Deadline: 5 läsdagar före mötet
 * Anslås genom:
-** Mail till dfunk + drek.
-** Nyhet + kalenderpost på hemsidan.
-** Lapp i sektionslokalen (se mallar).
+** Mail till dfunk + drek
+** Nyhet + kalenderpost på hemsidan
+** Lapp i sektionslokalen (se mallar)
 
 h4. Dagordning/Handlingar
 
 Kolla med resten av drek angående vilka punkter som skall tas upp.
 
-* Kopiera och redigera mallen.
+* Kopiera och redigera mallen (se mallar).
 * Deadline: När DM börjar, men gärna klar en dag innan.
 * Skicka gärna ut till drek + dfunk.
 * Lägg gärna upp i nyhet på hemsidan.
 
 h4. Protokoll
 
-* Kopiera och redigera mallen.
-* Deadline: Klar senast 14 dagar efter DM.
-* Justera.
+* Kopiera och redigera mallen (se mallar)
+* Deadline: Klar senast 14 dagar efter DM
+* Justera
 * Anslås genom:
 ** Lapp i sektionslokalen (t.ex. QR-kod med länk)
 ** Hemsidan under sektionen/formalia/protokoll + nyhet
-** Arkivera dokumenten på Afs?
+** Sätt originalet i en pärm i styrelserummet
+** Arkivera dokumenten på afs (se afs)
 
 h3. SM
 
@@ -70,39 +71,41 @@ Lokal måste bokas innan kallelsen ska ut.
 
 h4. Dagordning/Handlingar
 
-* Kopiera och redigera mallen.
-* Deadline: 5 läsdagar före mötet.
+* Kopiera och redigera mallen (se mallar)
+* Deadline: 5 läsdagar före mötet
 * Anslås genom:
 ** Mail till THS styrelse och revisorer
 ** Lapp i sektionslokalen (t.ex. QR-kod med länk)
-** Nyhet + sticky på hemsidan.
-* Bifoga motionssvar, propositioner, motioner, rapporter och andra relevanta dokument.
-* Prata med valberedningen om vilka val som skall göras.
-* Om det under förra SM beslutades om stadgeändringar så skall dessa ha en andra läsning och vara med i dagordningen (inklusive original bilagor).
+** Nyhet + sticky på hemsidan
+* Bifoga motionssvar, propositioner, motioner, rapporter och andra relevanta dokument
+* Prata med valberedningen om vilka val som skall göras
+* Om det under förra SM beslutades om stadgeändringar så skall dessa ha en andra läsning och vara med i dagordningen (inklusive original bilagor)
 
 h4. Till SM
 
 Skriv ut och ta med:
-* närvarolistor.
-* in- och utlistor.
-* yrkandelappar.
+* närvarolistor
+* in- och utlistor
+* yrkandelappar
+Dessa finns bland mallarna.
 
 h4. Protokoll
 
-* Kopiera och redigera mallen.
-* Deadline: Klar senast 14 dagar efter SM.
-* Justera.
+* Kopiera och redigera mallen (se mallar)
+* Deadline: Klar senast 14 dagar efter SM
+* Justera
 * Anslås genom:
 ** Mail till THS styrelse
 ** Lapp i sektionslokalen (t.ex. QR-kod med länk)
 ** Hemsidan under sektionen/formalia/protokoll + nyhet
-** Arkivera dokumenten på Afs?
+** Sätt originalet i en pärm i styrelserummet
+** Arkivera dokumenten på afs (se afs)
 
 h4. Specifika SM
 
 h5. Extra-SM
-* Kallelse senast 8 läsdagar innan mötet, anslås i övrigt som ordinarie.
-* Behandlar endast de frågor som angivits i kallelsen.
+* Kallelse senast 8 läsdagar innan mötet, anslås i övrigt som ordinarie
+* Behandlar endast de frågor som angivits i kallelsen
 
 
 h5. Revisions-SM
@@ -124,11 +127,11 @@ h3. Uppdatera enligt ändringar
 h4. Styrdokument
 
 Efter att protokoll har justerats, gå igenom och uppdatera styrdokumenten med alla reglementes- och stadgeändringar. Observera att stadgeändringar först går igenom efter en andra läsning.
-Styrdokumenten ligger på github och uppdateras ...
+Styrdokumenten kan man se här http://styrdokument.datasektionen.se/. Filerna som är grund för detta och som du behöver uppdatera ligger på github.
 
 h4. Mailalias
 
-Om det beslutas om införande av ny nämnd/funktionär maila d-sys och be denne skapa lämpliga mailalias och lägga in dessa i dfunk-aliaset om funktionär.
+Om det beslutas om införande av ny nämnd/funktionär maila mailadmin (vet du inte vem detta är fråga ior) och be denne skapa lämpliga mailalias och lägga in dessa i dfunk-aliaset om funktionär.
 
 h4. Funktionärsposter och funktionärer
 
@@ -139,32 +142,97 @@ h2. HOW-TOs
 
 h3. Hemsidan HOW-TO
 
+Dessa instruktioner gäller hemsidan som den ser ut början av 2013.
+Innan du kan kan göra något alls på hemsidan behöver du be om *redigeringsrättigheter*.
+
 h4. Lägga till nyhet
+
+På första sidan, nere till vänster under kategorierna välj *Ny nyhet*
+Skriv nyheten och lägg till lämpliga taggar.
+Se till att du väljer *Publicerad* längst ner innan du trycker på skapa.
 
 h4. Uppdatera stickyn
 
+Nuvarande lösningen för 'stickyn' högst upp i listan av nyheter är inte så snygg. För att ändra den behöver du gå till http://www.datasektionen.se/textnoder/177/edit och redigera.
+
 h4. Lägga till kalenderpost
+
+Om du klickar på en nyhet så finns det ett alternativ *Skapa kalenderpost* i vänsterkolumnen som skapar en kalenderpost relaterad till nyheten.
+Man kan även skapa en kalenderpost från vänsterkolumnen på första sidan genom *Ny kalenderpost* länken.
 
 h4. Ladda upp dokument
 
+På alla sidor förutom första sidan finns det ett *Lista filer* och ett *Ny fil* menyval i vänsterkolumnen. Med dessa kan man, som det låter, lista filer respektive ladda upp nya filer. De filer som listas är de som ligger under den sida man är inne på, och om man laddar upp en fil så hamnar den under current_path/filnamn.
+Detta system är inte speciellt bra, men förslagsvis laddar du upp dagordningar under sektionen/formalia och protokoll under sektionen/formalia/protokoll.
+
 h4. Uppdatera listan över protokoll
+
+Gå till http://www.datasektionen.se/sektionen/formalia/protokoll och välj *Redigera sida* i menyn i vänsterkolumnen. Se till att du först har laddat upp protokollet på hemsidan och länka till det.
 
 h3. Mallar HOW-TO
 
-h4. Var finns de? Hur uppdateras de?
+Mallarna ligger både på github och på afs. Github är bra och versionshanterat, risken finns att mallarna på afs är gamla.
+På github ligger de under https://github.com/datasektionen/mallar/tree/master/sekreterare.
+På afs ligger de under Datasektionen/drektoratet/sekr/Mallar.
+Alla referenser till mallar härefter ligger under sekreterar-mappen på github.
+
+h4. DM
+
+Mallen för kallelser: kallelse/kallelse.tex (det finns även en .ai mall som ligger på afs).
+Mallen för dagordning: dagordning/dagordning_dm-YYYY-MM-DD.tex.
+Mallen för protokoll: protokoll/prot_dm-YYYY-MM-DD.tex.
+Mallen för motion/motionssvar/proposition: motion_proposition.tex, man kan även använda http://motioner.datasektionen.se/.
+
+h4. SM
+
+Mallen för kallelser: kallelse/kallelse.tex (det finns även en .ai mall som ligger på afs).
+Mallen för rapporter: rapporter.tex.
+Mallen för dagordning: dagordning/dagordning_sm-YYYY-MM-DD.tex.
+Mallen för dagordning: protokoll/prot_sm-YYYY-MM-DD.tex.
+Mallen för motion/motionssvar/proposition: motion_proposition.tex, man kan även använda http://motioner.datasektionen.se/.
+De mallar som skall redigeras med datum och tas med 'tomma' till SM är narvarolista.tex, inutlista.tex och yrkande.tex.
 
 h3. .tex HOW-TO
 
-h4. Installera och köra
+Mallarna är mestadels välskrivna och borde inte ge dig några problem. Lägg gärna till mer kommentarer/dokumentation i dem om du känner att det behövs.
+Generellt behöver man se till att ändra datum i alla mallar, sedan avkommenterar man de sektioner man behöver och lägger till de punkter man vill ha.
 
-h4. Redigera
+Mer information om hur man installerar och dokumentation hittas enklast genom att söka på internet, http://www.latex-project.org/ kan vara en bra startpunkt. Fråga någon inom ior eller gamla sekreterare om du fastnar.
+
+Alla mallarna funkar om man använder pdflatex, se till att alla dependencies ligger i mappen du kör från (t.ex. dagordning.cls, eventuella bilagor). Får du problem med konstiga tecken så är det antagligen encodingen som bråkar, se till att alla filer är sparade som utf-8.
 
 h3. Git och Github HOW-TO
 
+h4. Installera
+
+h4. Sätta upp
+
+h4. Uppdatera filer
+
+h4. Mallar
+
+h4. Styrdokumenten
+
 h3. Afs HOW-TO
 
-h4. Hitta filerna
+Sektionen har en mapp på skolans filsystem. Om du är inloggad på skolans datorer kan du hitta den i din hemkatalog, den heter Datasektionen. Det som är mest intressant för dig ligger i Datasektionen/drektoratet/sekr.
+Handlingar arkiveras under Datasektionen/drektoratet/sekr/handlingar/ÅÅ.
+
+Sitter du vid en av skolans datorer kommer du åt och redigerar filerna som vanligt, om du inte har access maila d-sys.
+Resten av texten kommer att handla om att ansluta från din egen dator.
+
+h4. Titta på filerna
+
+Om du bara vill se vad som finns och kolla på filer så kan du ssh:a in:
+ssh kthid@my.nada.kth.se
+Om du vill kunna öppna pdfer och andra grafiska program behöver du lägga till -X flaggan, nackdelen är att det går långsammare.
 
 h4. Ladda ner filer
 
+scp kthid@u-shell.csc.kth.se:path destination_path
+Lägg till -r flaggan för att ladda ner en hel mapp.
+
 h4. Ladda upp filer
+
+scp file kthid@u-shell.csc.kth.se:destination_path
+Lägg till -r flaggan för att ladda upp en hel mapp.
