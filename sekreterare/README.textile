@@ -172,25 +172,25 @@ Gå till http://www.datasektionen.se/sektionen/formalia/protokoll och välj *Red
 h3. Mallar HOW-TO
 
 Mallarna ligger både på github och på afs. Github är bra och versionshanterat, risken finns att mallarna på afs är gamla.
-På github ligger de under https://github.com/datasektionen/mallar/tree/master/sekreterare.
-På afs ligger de under Datasektionen/drektoratet/sekr/Mallar.
+På *github* ligger de under https://github.com/datasektionen/mallar/tree/master/sekreterare.
+På *afs* ligger de under Datasektionen/drektoratet/sekr/Mallar.
 Alla referenser till mallar härefter ligger under sekreterar-mappen på github.
 
 h4. DM
 
-Mallen för kallelser: kallelse/kallelse.tex (det finns även en .ai mall som ligger på afs).
-Mallen för dagordning: dagordning/dagordning_dm-YYYY-MM-DD.tex.
-Mallen för protokoll: protokoll/prot_dm-YYYY-MM-DD.tex.
-Mallen för motion/motionssvar/proposition: motion_proposition.tex, man kan även använda http://motioner.datasektionen.se/.
+Mallen för *kallelser*: kallelse/kallelse.tex (det finns även en .ai mall som ligger på afs).
+Mallen för *dagordning*: dagordning/dagordning_dm-YYYY-MM-DD.tex.
+Mallen för *protokoll*: protokoll/prot_dm-YYYY-MM-DD.tex.
+Mallen för *motion/motionssvar/proposition*: motion_proposition.tex, man kan även använda http://motioner.datasektionen.se/.
 
 h4. SM
 
-Mallen för kallelser: kallelse/kallelse.tex (det finns även en .ai mall som ligger på afs).
-Mallen för rapporter: rapporter.tex.
-Mallen för dagordning: dagordning/dagordning_sm-YYYY-MM-DD.tex.
-Mallen för dagordning: protokoll/prot_sm-YYYY-MM-DD.tex.
-Mallen för motion/motionssvar/proposition: motion_proposition.tex, man kan även använda http://motioner.datasektionen.se/.
-De mallar som skall redigeras med datum och tas med 'tomma' till SM är narvarolista.tex, inutlista.tex och yrkande.tex.
+Mallen för *kallelser*: kallelse/kallelse.tex (det finns även en .ai mall som ligger på afs).
+Mallen för *rapporter*: rapporter.tex.
+Mallen för *dagordning*: dagordning/dagordning_sm-YYYY-MM-DD.tex.
+Mallen för *dagordning*: protokoll/prot_sm-YYYY-MM-DD.tex.
+Mallen för *motion/motionssvar/proposition*: motion_proposition.tex, man kan även använda http://motioner.datasektionen.se/.
+De mallar som skall redigeras med datum och tas med 'tomma' *till SM* är narvarolista.tex, inutlista.tex och yrkande.tex.
 
 h3. .tex HOW-TO
 
@@ -199,7 +199,7 @@ Generellt behöver man se till att ändra datum i alla mallar, sedan avkommenter
 
 Mer information om hur man installerar och dokumentation hittas enklast genom att söka på internet, http://www.latex-project.org/ kan vara en bra startpunkt. Fråga någon inom ior eller gamla sekreterare om du fastnar.
 
-Alla mallarna funkar om man använder pdflatex, se till att alla dependencies ligger i mappen du kör från (t.ex. dagordning.cls, eventuella bilagor). Får du problem med konstiga tecken så är det antagligen encodingen som bråkar, se till att alla filer är sparade som utf-8.
+Alla mallarna funkar om man använder *pdflatex*, se till att alla dependencies ligger i mappen du kör från (t.ex. dagordning.cls, eventuella bilagor). Får du problem med konstiga tecken så är det antagligen encodingen som bråkar, se till att alla filer är sparade som utf-8.
 
 h3. Git och Github HOW-TO
 
@@ -224,15 +224,15 @@ Resten av texten kommer att handla om att ansluta från din egen dator.
 h4. Titta på filerna
 
 Om du bara vill se vad som finns och kolla på filer så kan du ssh:a in:
-ssh kthid@my.nada.kth.se
-Om du vill kunna öppna pdfer och andra grafiska program behöver du lägga till -X flaggan, nackdelen är att det går långsammare.
+_ssh kthid@my.nada.kth.se_
+Om du vill kunna öppna pdfer och andra grafiska program behöver du lägga till _-X_ flaggan, nackdelen är att det går långsammare.
 
 h4. Ladda ner filer
 
-scp kthid@u-shell.csc.kth.se:path destination_path
-Lägg till -r flaggan för att ladda ner en hel mapp.
+_scp kthid@u-shell.csc.kth.se:path destination_path_
+Lägg till _-r_ flaggan för att ladda ner en hel mapp.
 
 h4. Ladda upp filer
 
-scp file kthid@u-shell.csc.kth.se:destination_path
-Lägg till -r flaggan för att ladda upp en hel mapp.
+_scp file kthid@u-shell.csc.kth.se:destination_path_
+Lägg till _-r_ flaggan för att ladda upp en hel mapp.
