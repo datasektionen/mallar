@@ -16,7 +16,7 @@ h3. DM
 
 h4. Kallelse
 
-Lokal måste bokas innan kallelsen ska ut.
+Lokal måste bokas innan kallelsen ska ut (görs av ordförande).
 
 * Kallelsen består av:
 ** datum
