@@ -1,0 +1,227 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[swedish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{url}
+\pagestyle{fancy}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+\newcommand{\Subject}{}
+\newcommand{\MyTitle}{Intropholdr}
+\newcommand{\MySubTitle}{dFunk}
+
+%% Header and Footer
+\lhead{dFunk Intropholdr}
+%\chead{}
+%\rhead{\bfseries \MyTitle}
+\lfoot{D-rektoratet}
+\cfoot{Konglig Datasektionen}
+\rfoot{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+\title{\MyTitle}
+\author{D-rektoratet}
+\date{\today}
+
+\begin{document}
+
+\begin{titlepage}
+\begin{center}
+
+% Upper part of the page
+\includegraphics[width=0.4\textwidth]{skold.pdf}\\[1cm]
+
+\textsc{\LARGE Konglig Datasektionen}\\[0.5cm]
+
+\textsc{\Large \Subject}\\[0.5cm]
+
+
+% Title
+\HRule \\[0.7cm]
+{ \huge \bfseries \MySubTitle}\\[0.4cm]
+{ \huge \bfseries \MyTitle}\\[0.4cm]
+
+\HRule \\[0.7cm]
+
+\vfill
+
+% Bottom of the page
+{\large \today}
+
+\end{center}
+\end{titlepage}
+
+%\maketitle
+
+\tableofcontents
+\pagebreak
+
+\section{Grattis!}
+... till din post som funktionär på Datasektionen. Med din nya roll som sektionsfunktionär följer både privilegier och ansvar. Den här foldern är tänkt att underlätta för dig som nybliven funktionär. Har du frågor när du har läst den, tveka inte att höra av dig till styrelsen (drek@d.kth.se), till din företrädare eller någon annan funktionär på sektionen. Välkommen!
+
+\section{Privilegier}
+Som funktionär på Datasektionen så har du vissa befogenheter utöver de du har som sektionsmedlem.
+
+\subsection{Kontaktperson i styrelsen}
+Alla funktionärer har en kontaktperson i styrelsen. Vi finns här för att stötta er. Vem just din kontaktperson i styrelsen står under de olika styrelsemedlemmarna på funktionärssidan\footnote{http://www.datasektionen.se/sektionen/funktionarer}.
+
+Som vanligt så kan ni alltid prata med någon av oss i styrelsen, din kontaktperson i styrelsen är dock oftast lite mer insatt i din, eller din nämnds, verksamhet.
+
+\subsection{Verksamhetsplan}
+Du kanske inte riktigt vet vad du förväntas göra i din roll som funktionär. Därför har vi flera dokument som kan hjälpa dig. Gamla testamenten från tidigare funktionärer men det viktigaste av allt, vår verksamhetsplan. Du hittar den på vår hemsida och där kan man läsa om hur vi vill föra vår sektions verksamhet frammåt. Det är i den du kan hitta föreslagna punkter som hur du med din nämnd kan hjälpa sektionen att skapa verklighet av dessa visioner. Och det är här du kan hitta nya vägar för din nämnd att ta.
+
+\subsection{Mailadress}
+Som funktionär har du under din mandatperiod tillgång till en mailadress som är avsedd för din funktionärspost. Mail till den adressen vidarebefordras till din vanliga kth-mail. Till denna mailadress kommer du att få mail som berör din post. Det är även denna mailadress som styrelsen använder för att kontakta dig angående frågor som gäller din post. Det är därför viktigt att du läser din kth-mail med jämna mellanrum. Du kan och bör även skicka mail från din posts mailadress när du skickar mail i din roll som funktionär. Läs mer här under om hur du ställer in din mailklient för att skicka från ditt funktionärsalias.
+
+En lista över alla funktionärsposter, innehavare och deras funktionärs-mailalias finns på Datasektionens hemsida\footnote{\url{http://www.datasektionen.se/sektionen/funktionarer}}.
+
+\subsection{Maillistor}
+Följande nämnder har utöver sitt alias även maillistor:
+\begin{itemize}
+\item METAdorerna
+\item Konglig östrogennämnden
+\item dÅre
+\item Spexmästeriet
+\item Näringslivsgruppen
+\item Datas internationella utskott
+\item Qulturnämnden
+\item Informationsorganet
+\item Studienämnden
+\item Jämlikhetsnämnden
+\item Mottagningen
+\item Studs
+\item Datas klubbmästeri (DKM)
+\item D-rektoratet
+\item DEMON
+\end{itemize}
+
+Om din nämnd inte har en maillista, och du gärna skulle vilja ha en, vad gör du då? Jo! Du kontaktar d-sys@kth.se och ber om en sådan.
+
+För att lägga in nya personer i en maillista, går du in i din nämnds mapp i AFS\footnote{/afs/nada.kth.se/misc/info/D-sektionen/groups+lists} och skriver in hans eller hennes mailadress i den för mailadresser avsedda filen, och så är det klart! Snabbt och smidigt, och alla blir nöjda.
+
+\subsection{Att skicka/ta emot mail från din funktionärsadress}
+För att läsa din funktionärsmail måste du ha tillgång till din personliga kth-mail. Det är där alla funktionärsmail landar. För att sätta upp detta på din favoritmailklient, googla som en kung eller prata med någon som vet.
+
+Hur du sedan skickar från ditt funktionärsalias ser lite olika ut beroende på vilken klient du använder.
+
+Om din funktionärsmailadress efter överlämning inte har blivit omdirigerad till din egna kth-mail, bör du kontakta Datas systemadministratör (d-sys@d.kth.se) eller prata med någon av oss i styrelsen så skickar vi det vidare.
+
+\subsubsection{SMTP-inställningar (gäller alla klienter)}
+\begin{table}[!th]
+\begin{tabular}{ll}
+
+SMTP-server: & smtp.nada.kth.se \\
+User: &<ditt kth-användarnamn, inte mailalias>\\
+Lösenord: & <ditt nada-lösenord, det som används i våra datorsalar>\\
+
+\end{tabular}
+\end{table}
+
+\noindent Använd SSL och port 465.
+
+\subsubsection{Gmail}
+\small Går följande steg inte att använda, kontakta gärna oss så att vi kan uppdatera dessa instruktioner.
+
+\begin{enumerate}
+\item Logga in på Gmail.
+\item Klicka på kugghjulsikonen längst upp i högra hörnet, klicka sedan på ''Settings'' (eller motsvarande på svenska).
+\item Klicka på ''Accounts''
+\item Under ''Send mail as:'', klicka på ''Add another email address you own'', vilket öppnar ett nytt fönster.
+\item Fyll i detta fönster in namnet på din funktionärspost samt dess kontaktadress. Dvs. ''Funktionärspost'', ''funktionärspost@d.kth.se''. Notera att din funktionärsadress slutar på @d.kth.se och inte @kth.se. Klicka på ''Next Step''.
+\item Välj ''Send through d.kth.se SMTP servers'' och byt ut ''SMTP Server:'' mot ''smtp.nada.kth.se'', mata in ditt vanliga kth-användarnamn samt det lösenord du har på NADAs servrar (det du använder i datasalarna). Använd ''user'', ''password'', inte ''funktionärspost''.
+\item Välj sedan ''465'' som port. Då kommer ''Secured connection using SSL (recommended)'' att vara markerad. Blir inte SSL markerat, markera då det alternativet. Klicka på ''Add Account''.
+\item Sedan kommer du att få ett mail skickat till din funktionärsmailadress (funktionärspost@d.kth.se), i det mailet så klickar du på länken för att bekräfta att du vill koppla din mailadress till denna gmail-adress som du använder.
+\end{enumerate}
+
+\noindent När du sedan skickar mail från Gmail så kan du helt enkelt välja mellan ditt Gmail-konto och ditt nytillaggda mailkonto, ''Funktionärspost <funktionärspost@d.kth.se>''. Testa att maila dig själv för att se att det fungerar!
+
+\subsubsection{Hotmail/Outlook-online}
+Vi har inte lyckats få det här att fungera i Hotmail, du får gärna försöka, men vi rekommenderar att du använder en annan klient.
+
+\subsection{Hemsidan}
+Som funktionär har du möjligheten att publicera nyheter och redigera sidor som rör din post på hemsidan. Många nämder har dessutom en text på hemsidan som bör hållas uppdaterad med nämndes verksamhet\footnote{\url{http://datasektionen.se/sektionen}}. Har du inte fått tillgång till publiceringsverktyget, eller inte kan ändra någon text som rör din nämnd, kontakta ior@d.kth.se för att antingen få den ändrad eller få mer rättigheter på hemsidan. Det går också bra att prata med någon i styrelsen.
+
+\subsection{Kalendern}
+På Datasektionens hemsida finns det en kalender för alla aktiviteter på sektionen. Denna kan du som funktionär på Datasektionen lägga in och redigera poster i. De händelser som ligger närmast i tiden syns dessutom i agendan till höger på hufvudsidan. Denna kalender är till för att få ut information om din nämnds aktiviteter, så slit den med hälsan!
+
+
+\subsection{Informationsspridning}
+Nu när du har ett event du vill nå ut med till de breda massorna och vet att det finns kanaler för detta, så kliar det förstås i fingrarna att sprida det allt du kan. Håll i hatten dock, Datasektionen har vissa informationsspridningsguidelines!\footnote{\url{http://datasektionen.se/sektionen/organisation}} Det viktigaste att tänka på här är att information som är av intresse för sektionens medlemmar, som t.ex event du arrangerar, ska delas via sektionens officiella informationskanaler: hemsidan och sektionslokalen (detta innan sociala medier används).
+
+A3-utskrifter i färg, för tex posters, går att skriva ut gratis och på egen hand på CSC's studentexpedition. Mer avancerade tryck sköts via campustryckeriet US-AB men då bör man ha en klar bild av vad man vill ha (papperstyngd, storlek, antal osv.) Det går att fakturera sektionen direkt men kostnaden dras på nämndens budget.
+För hjälp med grafisk design eller tryckfrågor kan man vända sig till DAD (Datas Art Director).
+
+För tygmärken och dyllikt är det vår egen prylmånglare man ska prata med. Hen kan hjälpa dig med praktiska saker om detta.
+
+I sektionslokalen har vi också en tv som man kan lägga upp glada bilder för att marknadsföra ditt event eller din nämnd. Om du vill lägga upp någonting på den kan du kontakta IOR så hjälper de dig.
+
+\subsection{D-rektoratsmöten}
+Som funktionär har du utöver närvarorätt även yttranderätt på styrelsemöten, så kallade D-rektoratsmöten (DM). På DM tas bland annat mindre beslut av styrelsen. Där diskuteras även lagda motioner och propositioner inför nästkommande sektionsmöte (SM).
+
+\subsection{Teambuildingevent}
+Teambuildingevent är ett bra och roligt sätt för funktionärer att lära känna varandra och för dig att lära dig mycket om hur sektionen fungerar. Se det som en utbildning som är starkt rekommenderad att du bör gå på. Här kan du även passa på att berätta för andra funktionärer vad du har haft för dig på sista tiden, och få hjälp ifall du skulle behöva.
+
+\subsection{Skiftesgasquen}
+Skiftesgasquen är en hejdundrande fest som anordnas av D-rektoratet mot början av sommaren varje år. Både avgående och nytillträdande sektionsfunktionärer är bjudna till denna tillställning. Skiftesgasquen subventioneras av Datasektionen som tack för det jobb som våra funktionärer gör.
+
+
+\subsection{Nycklar och access}
+Om du som tillträdande funktionär inte har tillgång till något utrymme eller förråd som du behöver för att kunna uppfylla din post som funktionär, så ska du ta kontakt med Vice Ordförande och begära tillgång till dessa så fixar han eller hon det.
+
+\subsection{Motioner}
+Som funktionär finns det stor chans att du vill ändra någonting på sektionen som du kanske inte har mandat nog att göra på egen hand. Det kanske dessutom behövs pengar. Då är det bra att kunna skriva en motion och be sektionen om (ekonomisk) hjälp på ditt problem. Det bästa sättet att lära sig att skriva en motion är genom att läsa hur andra motioner ser ut. Det kan enkelt läsas i gamla protokoll som man kan hitta på hemsidan\footnote{\url{http://www.datasektionen.se/sektionen/formalia/protokoll}}. Sen är det väldigt bra att känna till sektionens motionsskapare\footnote{\url{http://motioner.datasektionen.se/}} som är skapad till just detta syfte, och genererar .tex dokument fint formaterade så att alla ser likadana ut.
+
+
+\section{Ansvar}
+Som tidigare nämnt så följer med funktionärsposten även en del ansvar. Främst så handlar det om att sköta de uppgifter och ta det ansvar som din funktionärpost innebär. Du behöver dock inte sitta och kallsvettas över det, för det är både roligt och karaktärsdanande! Och om det skulle vara något, så finns vi här för dig.
+
+\subsection{Nämndens ekonomi}
+Som sektionsfunktionär är du ansvarig inför styrelsen för din nämnds ekonomi. Låt dock inte detta skrämma dig, men tänk dig för innan du beställer en marmorstaty av Barbapappa i naturlig storlek för sektionens pengar. Inköp ska rymmas inom den existerande budgeten. Hur ekonomin sköts hittar du längre ner i pholdrn.
+
+\subsection{Var representabel}
+Tänk på att du representerar sektionen oftare än du tror. Givetvis representerar du sektionen när du är i rollen av din post, men även när du pratar med folk i sektionslokalen. Detta betyder naturligtvis inte att du alltid måste vara stel och tråkig i alla sammanhang; tvärt om, använd sunt förnuft!
+
+
+\subsection{Extern representation}
+Väl värt att veta är att det finns funktionärsråd av olika slag centralt. Du är alltså som funktionär troligtvis inte ensam i din funktion! Du som funktionär ska om möjligt delta i dessa råd när det kallas till sådant, men om du verkligen inte kan så kan du vända dig till din suppleant. Du kan läsa vilket råd du ska gå på och vem din suppleant är i Datasektionens reglemente\footnote{\url{http://datasektionen.se/sektionen/formalia/reglemente}\#externa\_representanter}.
+
+\subsection{Företagskontakt}
+Det är möjligt att du kanske vill ordna någon form av event med ett företag från näringslivet av en eller annan anledning. Gör inte detta på egen hand, om du inte råkar vara Näringslivsansvarig. Gör detta tillsammans med Näringslivsgruppen, för det är viktigt att Näringslivsgruppen vet om vilka företag som är i kontakt med sektionen, så att det inte blir krockar eller andra konstigheter.
+
+\subsection{Funktionärsmail}
+Din funktionärsmailadress finns inte bara till för att sektionens medlemmar ska kunna komma i kontakt med dig, utan också för att vi ska kunna komma i kontakt med dig angående din post som funktionär. Det är därför väldigt viktigt att du kollar din funktionärsmail minst var tredje dag och alltid försöker svara oss så fort som möjligt. Du behöver inte ha ett välformulerat svar när du svarar, inte heller en ståndpunkt i någon fråga, så länge du skriver någonting, så att vi i D-rektoratet vet att informationen har kommit fram.
+
+\subsection{Om du inte kan eller hinner}
+För att sektionen ska fungera är det viktigt att alla funktionärer följer våra styrdokument i den mån det går och uppfyller sin roll. Kan du som funktionär inte längre kan fullfölja ditt jobb är det viktigt att du kontaktar styrelsen. Vi är alla studenter och vet hur tentor och annat kan komma emellan dig och dina åtaganden. Om vi inte vet om något så kan vi inte hjälpa dig. Håll kontakt med din kontaktperson i D-rektoratet!
+
+\section{Skyldigheter}
+Som funktionär tar du på dig ett ansvarsområde, och det förväntas att du gör vissa saker på din post. Det finns en del skyldigheter alla funktionärsposter har gemensamt, främst mot D-rektoratet. Om dessa kan du läsa i sektionens $\delta$Funk-policy\footnote{\url{http://styrdokument.datasektionen.se/dfunkpolicy}}. Här nedan är lite mer utförlig information om vissa av ämnena i policyn.
+
+\subsection{Rapporter och Testamente}
+När du kliver av din post är det din skyldighet att skriva ett testamente till din efterträdare så att denne vet vad du har gjort och vilka bollar du håller i luften. Du förväntas dessutom skriva en rapport till varje sektionsmöte med samma information, fast då endast sedan senaste SM. Ett tips är att spara dessa rapporter och sedan sammanställa dem till ett testamente när du går av. Här nedan kommer ett förslag på överskrifter som kan vara värt att ha med.
+
+\subsubsection{Vad har du gjort på din post}
+Här bör du berättande skriva om saker du har gjort, stött på, problem, tips på lösningar du har hittat på. Folk orkar i allmänhet aldrig läsa mer än ett testamente så det kan vara smart att skriva även vad tidigare personer på din post har gjort om det är någonting bra. Dela gärna in det här området i underrubriker med olika saker du har hållit på med. Det är också viktigt att du kopplar dessa saker till verksamhetsplanen och förklarar vilka punkter och mål du har lyckats uppfylla.
+
+\subsubsection{Vad håller du på med på din post}
+Aktiva saker som du håller på med. Det här är egentligen den viktigaste biten. Om du inte lämnar över allt du håller på med just nu, kommer det troligast falla mellan stolar och aldrig bli gjort. Och det är ju synd. Var gärna konkret, skriv inte bara ''Jag håller på att bygga en drivarbil'', berätta hur det går, hur långt du har kommit, vilka personer som bör kontaktas, vad som ska göras och om det finns något en efterträdare kan behöva. Även här är det viktigt att koppla detta till verksamhetsplanen så att din efterträdare förstår vilket mål du har med ditt pågående projekt.
+
+\section{Ekonomi}
+För att sektionens bokföring ska fungera är det viktigt att alla som hanterar sektionens pengar gör rätt. Vad är rätt då? Läs vidare!
+
+\subsection{Budget}
+Alla nämnder har någon form av budget. Vissa nämnder har enbart fikabudget (vilket för närvarande ligger på 1000kr per kalenderår), medan andra har en mer avancerad budget. Fråga din föregångare om du inte vet vad som gäller för din nämnd. Det är viktigt att du håller dig inom ramarna för budgeten. Om din nämnd behöver mer pengar för att genomföra eller förbättra er verksamhet kan det vara dags att lägga en motion på nästföljande SM. Ta gärna kontakt med oss i styrelsen om du funderar över något eller vill få feedback,\textbf{ vi finns här för din skull}!
+
+\subsection{Utlägg}
+Så om du ska handla något för sektionen, hur ska du då göra? Ska du till exempel ska handla fika till ditt möte på T-snabben gör du helt enkelt ditt köp där och ser till att \textbf{spara kvittot}. Kvittot krävs för att du ska kunna redovisa dina utlägg och få dina pengar. Därefter loggar du in på Cashflow\footnote{\url{http://cashflow.datasektionen.se/}} och klickar på ''Lägg till inköp'', där du kan registrera ditt inköp. Se även till att fylla i dina kontouppgifter under ''Min sida'' -> ''Redigera''. När du har registrerat inköpet hämtar du kvittopärmen, som ska ligga på hyllan över spisen i META. Fyll i en av mallarna som sitter i pärmen och häfta sedan fast ditt kvitto i pappret. Undrar du något fråga någon som vet, förslagsvis kassören, eller din kontaktperson i D-rektoratet! Om det är slut på mallar i pärmen, hör av dig till oss!
+
+\section{Till slut}
+Kom ihåg: Man kan inte stava funktionär utan FUN FUN FUN, PARTYING PARTYING YEAH!
+
+
+\end{document}
