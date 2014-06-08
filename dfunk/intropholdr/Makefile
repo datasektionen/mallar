@@ -5,4 +5,4 @@ all:
 
 
 clean: 
-	rm *.aux *.log *.toc dfunkintropholdr.pdf
+	rm -f *.aux *.log *.toc *synctex.gz dfunkintropholdr.pdf
