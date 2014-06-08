@@ -1,0 +1,42 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[swedish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{url}
+\usepackage[final]{pdfpages}
+\pagestyle{fancy}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+
+
+\title{Välkommen till D-Rektoratet!}
+\author{D-rektoratet}
+\date{\today}
+
+
+\begin{document}
+
+
+\maketitle
+
+Detta är en samling av lite dokument som kan vara bra
+att ha koll på.
+
+
+\section*{Innehåll}
+
+\begin{enumerate}
+\item dFunkt-intropholdrn
+\item dFunkt-policy
+\end{enumerate}
+
+\pagebreak
+
+
+\includepdf[pages=-]{../intropholdr/dfunkintropholdr.pdf}
+\includepdf[pages=-]{../policy/dfunktpolicy.pdf}
+
+\end{document}
