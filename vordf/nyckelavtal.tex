@@ -1,0 +1,104 @@
+% Mall för nyckelkontrakt
+% Skapad av Mattias Danielsson 2014-01-19
+% Baserad på tidigare avtal
+%
+
+\documentclass[a4paper,12pt]{amsart}
+
+\usepackage[swedish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[hidelinks]{hyperref}
+\usepackage{framed}
+\addtolength{\topmargin}{-2in}
+\usepackage{fullpage}
+
+
+% Haxx for form fields
+\newdimen\longline
+\longline=\textwidth\advance\longline-4cm
+
+\def\LayoutTextField#1#2{#2} % override default in hyperref
+
+\def\lbl#1{\hbox to 4cm{#1\dotfill\strut}}%
+\def\labelline#1#2{\lbl{#1}\vbox{\hbox{\TextField[name=#1,width=#2]{\null}}\kern1pt\hrule}}
+
+\def\q#1{\hbox to \hsize{\labelline{#1}{\longline}}\vskip1.4ex}
+% End haxx
+
+\title{Nyckelavtal konglig datasektionen}
+\author{Uppdaterad 2014-01-20}
+
+\begin{document}
+\maketitle
+
+
+\begin{Form}
+    \q{Gällande nyckel}
+
+
+	\section{Inledning}
+	{\tiny\noindent Konglig Datasektionen (org. nr. 802412-7709), nedan benämnd \textit{Datasektionen}.
+
+\noindent\textit{Mottagaren} är den person som ingår detta nyckelavtal i syfte att upplåtas en nyckel.
+
+\noindent\textit{Utlämnaren} är Datasektionens sittande Vice Sektionsordförande, eller person som genom formellt beslut erhållit mandat att upplåta sektionens nycklar.
+}
+
+\section{Nyckelns upplåtande}
+{\tiny \noindent Genom det ömsesidiga undertecknandet av detta avtal upplåter Datasektionen den ovan specificerade nyckeln till Mottagarens nyttjande.
+Mottagaren äger inte rätt att överlämna nyckel till annan person än Utlämnaren, om inte Mottagaren erhållit Utlämnarens uttryckliga tillstånd. 
+
+Nyckeln är knuten till den Mottagare och förtroendepost eller ansvarsområde som den utlämnats till. När Mottagaren lämnar förtroendepost eller ansvarsområde ska Mottagaren skyndsamt och på eget initiativ återlämna nyckeln till Utlämnaren. }
+
+
+\section{Mottagarens ansvar}
+{\tiny \noindent Mottagaren förbinder sig att hantera nyckeln på ett ansvarsfullt sätt. Om nyckeln förloras eller förstörs kan Mottagaren komma att hållas ersättningsskyldig för nyckel och eventuellt låsbyte. Mottagaren är ansvarig för vad som händer i det utrymme som nyckeln ger tillgång till.
+
+Om Mottagaren, i strid mot detta avtal, lämnat ut nyckel till tredje part, så är Mottagaren ersättningsskyldig för eventuella följder.
+
+Om Utlämnaren återkallar nyckeln skall Mottagaren snarast återlämna den, dock senast 7 dagar efter att Utlämnaren uttryckligen begärt nyckeln åter. Om nyckeln inte återlämnats efter den perioden kan den komma att ses som förlorad. Utlämnaren ska ge dispens från detta stycke om goda skäl föreligger.
+
+Mottagaren får ej kopiera nyckeln, eller genom oaktsamhet möjliggöra att nyckeln kopieras.}
+
+	
+\vspace{.2in}
+	
+	{\large \noindent Utlämnas}\\
+	{\tiny Genom att signera accepterar Mottagaren avtalet och bekräftar att hen mottagit den specifierade nyckeln.}
+	
+	\vspace{.3in}
+
+	\begin{tiny}	
+	
+		\q{Mottagare signum}
+    		\q{Namnförtydligande}
+    		%&\begin{framed}
+    	\vspace{.1in}
+    		\q{Utlämnare signum}
+    		\q{Namnförtydligande}
+    		
+    		\q{Plats och datum}
+
+	%\end{framed}
+	\end{tiny}
+		
+	\vspace{.2in}
+	{\large \noindent Återlämnas}
+	\vspace{.1in}
+	
+	%\begin{framed}
+	\begin{tiny}
+    \q{Utlämnare signum}
+    \q{Namnförtydligande}
+    \q{Plats och datum}
+    
+	\end{tiny}
+	%\end{framed}
+    
+
+\end{Form}
+\vspace*{\fill}
+
+\end{document}
+
